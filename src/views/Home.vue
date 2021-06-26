@@ -11,7 +11,7 @@
       <li>router（路由配置）</li>
       <li>components（公共组件）</li>
       <li>layout（header，menu，footer等组件）</li>
-      <li>views（项目界面）</li>
+      <li>views（项目页面）</li>
       <li>utils（公共函数和方法）</li>
       <li>services（服务封装）</li>
     </ul>
