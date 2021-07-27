@@ -42,7 +42,7 @@ const httpServer = (opts, data) => {
   let HYtimestamp = new Date().getTime()
   let Public = {
     //公共参数
-    //HYtimestamp: HYtimestamp
+    HYtimestamp: HYtimestamp
   }
   let httpData = null
   if (opts.contentType === 'multipart/form-data') {
